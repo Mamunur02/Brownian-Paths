@@ -1,2 +1,2 @@
-# Brownian-Paths
-A MATLAB project exploring Brownian Motion
+# Random-Fourier-Series
+A MATLAB project exploring Random Fourier Series and its relation to Brownian Motion
